@@ -1,0 +1,29 @@
+{
+  "name": "technical-test-csv",
+  "version": "0.0.1",
+  "description": "Technical test",
+  "keywords": [],
+  "author": "Diversius",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.js --exec babel-node",
+    "clear": "rimraf dist && mkdirp dist",
+    "build": "npm run clear && babel src -d dist",
+    "test": "mocha --require @babel/register"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/register": "^7.9.0",
+    "chai": "^4.2.0",
+    "mkdirp": "^1.0.4",
+    "mocha": "^7.1.2",
+    "nodemon": "^2.0.3",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "lodash.groupby": "^4.6.0"
+  }
+}

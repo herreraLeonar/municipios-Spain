@@ -1,0 +1,366 @@
+[
+  {
+    "id": "1",
+    "slug": "alava",
+    "provincia": "Álava",
+    "comunidad_id": "16",
+    "capital_id": "46"
+  },
+  {
+    "id": "2",
+    "slug": "albacete",
+    "provincia": "Albacete",
+    "comunidad_id": "8",
+    "capital_id": "54"
+  },
+  {
+    "id": "3",
+    "slug": "alicante",
+    "provincia": "Alicante",
+    "comunidad_id": "10",
+    "capital_id": "152"
+  },
+  {
+    "id": "4",
+    "slug": "almeria",
+    "provincia": "Almería",
+    "comunidad_id": "1",
+    "capital_id": "292"
+  },
+  {
+    "id": "5",
+    "slug": "avila",
+    "provincia": "Ávila",
+    "comunidad_id": "7",
+    "capital_id": "395"
+  },
+  {
+    "id": "6",
+    "slug": "badajoz",
+    "provincia": "Badajoz",
+    "comunidad_id": "11",
+    "capital_id": "644"
+  },
+  {
+    "id": "7",
+    "slug": "illes-balears",
+    "provincia": "Illes Balears",
+    "comunidad_id": "4",
+    "capital_id": "836"
+  },
+  {
+    "id": "8",
+    "slug": "barcelona",
+    "provincia": "Barcelona",
+    "comunidad_id": "9",
+    "capital_id": "881"
+  },
+  {
+    "id": "9",
+    "slug": "burgos",
+    "provincia": "Burgos",
+    "comunidad_id": "7",
+    "capital_id": "1220"
+  },
+  {
+    "id": "10",
+    "slug": "caceres",
+    "provincia": "Cáceres",
+    "comunidad_id": "11",
+    "capital_id": "1580"
+  },
+  {
+    "id": "11",
+    "slug": "cadiz",
+    "provincia": "Cádiz",
+    "comunidad_id": "1",
+    "capital_id": "1776"
+  },
+  {
+    "id": "12",
+    "slug": "castellon",
+    "provincia": "Castellón",
+    "comunidad_id": "10",
+    "capital_id": "1844"
+  },
+  {
+    "id": "13",
+    "slug": "ciudad-real",
+    "provincia": "Ciudad Real",
+    "comunidad_id": "8",
+    "capital_id": "1978"
+  },
+  {
+    "id": "14",
+    "slug": "cordoba",
+    "provincia": "Córdoba",
+    "comunidad_id": "1",
+    "capital_id": "2065"
+  },
+  {
+    "id": "15",
+    "slug": "a-coruna",
+    "provincia": "A Coruña",
+    "comunidad_id": "12",
+    "capital_id": "2150"
+  },
+  {
+    "id": "16",
+    "slug": "cuenca",
+    "provincia": "Cuenca",
+    "comunidad_id": "8",
+    "capital_id": "2285"
+  },
+  {
+    "id": "17",
+    "slug": "girona",
+    "provincia": "Girona",
+    "comunidad_id": "9",
+    "capital_id": "2526"
+  },
+  {
+    "id": "18",
+    "slug": "granada",
+    "provincia": "Granada",
+    "comunidad_id": "1",
+    "capital_id": "2747"
+  },
+  {
+    "id": "19",
+    "slug": "guadalajara",
+    "provincia": "Guadalajara",
+    "comunidad_id": "8",
+    "capital_id": "2947"
+  },
+  {
+    "id": "20",
+    "slug": "guipuzcoa",
+    "provincia": "Guipúzcoa",
+    "comunidad_id": "16",
+    "capital_id": "3159"
+  },
+  {
+    "id": "21",
+    "slug": "huelva",
+    "provincia": "Huelva",
+    "comunidad_id": "1",
+    "capital_id": "3257"
+  },
+  {
+    "id": "22",
+    "slug": "huesca",
+    "provincia": "Huesca",
+    "comunidad_id": "2",
+    "capital_id": "3396"
+  },
+  {
+    "id": "23",
+    "slug": "jaen",
+    "provincia": "Jaén",
+    "comunidad_id": "1",
+    "capital_id": "3545"
+  },
+  {
+    "id": "24",
+    "slug": "leon",
+    "provincia": "León",
+    "comunidad_id": "7",
+    "capital_id": "3676"
+  },
+  {
+    "id": "25",
+    "slug": "lleida",
+    "provincia": "Lleida",
+    "comunidad_id": "9",
+    "capital_id": "3918"
+  },
+  {
+    "id": "26",
+    "slug": "la-rioja",
+    "provincia": "La Rioja",
+    "comunidad_id": "17",
+    "capital_id": "4124"
+  },
+  {
+    "id": "27",
+    "slug": "lugo",
+    "provincia": "Lugo",
+    "comunidad_id": "12",
+    "capital_id": "4238"
+  },
+  {
+    "id": "28",
+    "slug": "madrid",
+    "provincia": "Madrid",
+    "comunidad_id": "13",
+    "capital_id": "4356"
+  },
+  {
+    "id": "29",
+    "slug": "malaga",
+    "provincia": "Málaga",
+    "comunidad_id": "1",
+    "capital_id": "4523"
+  },
+  {
+    "id": "30",
+    "slug": "murcia",
+    "provincia": "Murcia",
+    "comunidad_id": "14",
+    "capital_id": "4588"
+  },
+  {
+    "id": "31",
+    "slug": "navarra",
+    "provincia": "Navarra",
+    "comunidad_id": "15",
+    "capital_id": "4815"
+  },
+  {
+    "id": "32",
+    "slug": "ourense",
+    "provincia": "Ourense",
+    "comunidad_id": "12",
+    "capital_id": "4925"
+  },
+  {
+    "id": "33",
+    "slug": "asturias",
+    "provincia": "Asturias",
+    "comunidad_id": "3",
+    "capital_id": "5009"
+  },
+  {
+    "id": "34",
+    "slug": "palencia",
+    "provincia": "Palencia",
+    "comunidad_id": "7",
+    "capital_id": "5137"
+  },
+  {
+    "id": "35",
+    "slug": "las-palmas",
+    "provincia": "Las Palmas",
+    "comunidad_id": "5",
+    "capital_id": "5252"
+  },
+  {
+    "id": "36",
+    "slug": "pontevedra",
+    "provincia": "Pontevedra",
+    "comunidad_id": "12",
+    "capital_id": "5312"
+  },
+  {
+    "id": "37",
+    "slug": "salamanca",
+    "provincia": "Salamanca",
+    "comunidad_id": "7",
+    "capital_id": "5588"
+  },
+  {
+    "id": "38",
+    "slug": "santa-cruz-de-tenerife",
+    "provincia": "Santa Cruz de Tenerife",
+    "comunidad_id": "5",
+    "capital_id": "5732"
+  },
+  {
+    "id": "39",
+    "slug": "cantabria",
+    "provincia": "Cantabria",
+    "comunidad_id": "6",
+    "capital_id": "5823"
+  },
+  {
+    "id": "40",
+    "slug": "segovia",
+    "provincia": "Segovia",
+    "comunidad_id": "7",
+    "capital_id": "6024"
+  },
+  {
+    "id": "41",
+    "slug": "sevilla",
+    "provincia": "Sevilla",
+    "comunidad_id": "1",
+    "capital_id": "6152"
+  },
+  {
+    "id": "42",
+    "slug": "soria",
+    "provincia": "Soria",
+    "comunidad_id": "7",
+    "capital_id": "6307"
+  },
+  {
+    "id": "43",
+    "slug": "tarragona",
+    "provincia": "Tarragona",
+    "comunidad_id": "9",
+    "capital_id": "6499"
+  },
+  {
+    "id": "44",
+    "slug": "teruel",
+    "provincia": "Teruel",
+    "comunidad_id": "2",
+    "capital_id": "6721"
+  },
+  {
+    "id": "45",
+    "slug": "toledo",
+    "provincia": "Toledo",
+    "comunidad_id": "8",
+    "capital_id": "6934"
+  },
+  {
+    "id": "46",
+    "slug": "valencia",
+    "provincia": "Valencia",
+    "comunidad_id": "10",
+    "capital_id": "7219"
+  },
+  {
+    "id": "47",
+    "slug": "valladolid",
+    "provincia": "Valladolid",
+    "comunidad_id": "7",
+    "capital_id": "7415"
+  },
+  {
+    "id": "48",
+    "slug": "vizcaya",
+    "provincia": "Vizcaya",
+    "comunidad_id": "16",
+    "capital_id": "7489"
+  },
+  {
+    "id": "49",
+    "slug": "zamora",
+    "provincia": "Zamora",
+    "comunidad_id": "7",
+    "capital_id": "7821"
+  },
+  {
+    "id": "50",
+    "slug": "zaragoza",
+    "provincia": "Zaragoza",
+    "comunidad_id": "2",
+    "capital_id": "8113"
+  },
+  {
+    "id": "51",
+    "slug": "ceuta",
+    "provincia": "Ceuta",
+    "comunidad_id": "18",
+    "capital_id": "8115"
+  },
+  {
+    "id": "52",
+    "slug": "melilla",
+    "provincia": "Melilla",
+    "comunidad_id": "19",
+    "capital_id": "8116"
+  }
+]
